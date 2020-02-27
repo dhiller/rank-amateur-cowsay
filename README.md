@@ -1,7 +1,7 @@
 Please note: this is the fork of the original `rank-amateur-cowsay`
 
-I forked this repo to have a place for publishing the cow file 
-initially originating from the [unsubsquirrel sticker initiative](https://store.ecompanystore.com/redhat/Shop/#/product/Search/RHT170013.000000-Red-Hat-remotee-sticker), 
+I forked this repo to have a place for publishing the cow file
+initially originating from the [unsubsquirrel sticker initiative](https://store.ecompanystore.com/redhat/Shop/#/product/Search/RHT170013.000000-Red-Hat-remotee-sticker),
 which was started by Rebecca Fernandez from Red Hat.
 
 The cow file I have added with kind permission of Jess Law from Red Hat to publish it
